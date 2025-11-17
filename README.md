@@ -22,9 +22,7 @@
 3. افتح اداه الاختراق.
 4. اكتب اسم الشبكة المراد اختراقها.
 5. مبروك عليك الشبكه متنساش تدعيلي بقا
-6. وتععملي فولو انستا [@rrvmiii](www.instagram.com/rrvmiii)
-   
-## English
+
 
 **tutorial video link ; [Phone](https://youtube.com)**
 
@@ -49,4 +47,3 @@ This project is a Wi-Fi network hacking tool for mobile devices, currently under
 3. Open the hacking tool.
 4. Type the name of the network you want to hack.
 5. Congratulations on getting the network access, don't forget to thank me!
-6. Follow Me on instagram [@rrvmiii](www.instagram.com/rrvmiii)
