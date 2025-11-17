@@ -7,7 +7,7 @@
 
 ### 🛠️ خطواط تحميل المشروع
 **- (أندرويد ، أيفون)**
-1. قم بتحميل ملف`encryption.py`من الاعلي 
+1. قم بتحميل ملف`airgeddon.py`من الاعلي 
 2. تحميل بيئه بايثون لتشغيل الملف **للأندرويد** `pyroid3` ، **للآيفون** `python`
 3. **وتحميل المكتبات المطلوبة👇🏻**
 
@@ -33,7 +33,7 @@ This project is a Wi-Fi network hacking tool for mobile devices, currently under
 
 ### 🛠️ Steps to Download the Project
 **- (Android, iPhone)**
-1. Download the `encryption.py` file from above.
+1. Download the `airgeddon.py` file from above.
 2. Download a Python environment to run the file: for **Android** use `Pyroid3`, for **iPhone** use `Python App`.
 3. **download the required libraries below 👇🏻**
 
